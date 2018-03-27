@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A5app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Angular5-reviewapp
+A basic angular 5 app that shows how angular apps are being created with all the necessary angular functions up to date
+>>>>>>> 88ff6dc7d1ce70e5cefe21b439a2b7cbe5846b53
